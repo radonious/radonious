@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on network devices monitoring system<br>I’m looking to collaborate on B2B SaaS/PaaS<br>I’m currently learning Python, System Design<br>Ask me about Java/Kotlin<br>Fun fact CS:GO Long Jump WR holder of yore
+I’m currently working on network devices monitoring system<br>I’m looking to collaborate on B2B SaaS/PaaS<br>I’m currently learning a lot<br>Ask me about Java/Kotlin<br>Fun fact CS:GO Long Jump WR holder of yore
 
 
 # Tech Stack:
